@@ -1,1 +1,1 @@
-# SpringBootWtihJsp
+# SpringBootWithFindBy Method And @query annotation
